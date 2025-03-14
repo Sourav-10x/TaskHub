@@ -27,16 +27,14 @@ transform the way your team works together.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Installation
 Instructions on how to install and set up your project.
 
 ```bash
 # Example:
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+https://github.com/Ayushkumar675/TaskHub.git
+cd TaskHub
 npm install
 npm run dev
 ```
@@ -58,7 +56,7 @@ We welcome contributions to TaskHub! To contribute, please follow these guidelin
 1. **Fork the Repository**: Start by forking the repository to your GitHub account.
 2. **Clone the Repository**: Clone the forked repository to your local machine.
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+  https://github.com/Ayushkumar675/TaskHub.git
    ```
 3. **Create a Branch**: Create a new branch for your feature or bug fix.
    ```bash
@@ -77,9 +75,4 @@ We welcome contributions to TaskHub! To contribute, please follow these guidelin
 
 Please ensure your code adheres to our coding standards and includes appropriate tests. Thank you for contributing!
 
-## License
-Information about the project's license.
-
-## Contact
-Information on how to contact the project maintainers.
 
